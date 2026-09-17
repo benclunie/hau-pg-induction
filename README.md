@@ -6,7 +6,7 @@ A 22-slide interactive Quarto / RevealJS presentation with student-support infor
 
 ## Present
 
-[Open the presentation](https://benclunie.github.io/hau-pg-induction/), or download `index.html` and open it in a browser. Use arrow keys to advance, Esc for the overview and S for speaker notes. Links to research groups open in a new tab.
+[Open the presentation](https://benclunie.github.io/hau-pg-induction/), or download `index.html` and open it in a browser. Use arrow keys to advance, Esc for the overview and S for speaker notes. Links to research groups open in a new tab. Select the campus plan to enlarge it, then zoom and drag to explore; Escape returns to the deck.
 
 ## Edit
 
